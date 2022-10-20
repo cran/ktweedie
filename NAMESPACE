@@ -1,0 +1,35 @@
+useDynLib("ktweedie", .registration = TRUE)
+
+import("methods")
+
+importFrom("graphics", "segments")
+importFrom("methods", "is", "new")
+importFrom("stats", "runif")
+
+export(ktd_estimate,
+       ktd_predict,
+       ktd_cv,
+       ktd_cv2d,
+       ## kernel functions
+       rbfdot,
+       laplacedot,
+       besseldot,
+       polydot,
+       tanhdot,
+       vanilladot,
+       anovadot,
+       splinedot,
+       kernelMatrix,
+       kernelMult,
+       kernelPol,
+       kernelFast,
+       as.kernelMatrix,
+       kpar
+)
+
+
+
+exportClasses("kernel", "rbfkernel", "laplacekernel",
+              "besselkernel", "tanhkernel", "polykernel","fourierkernel",
+              "vanillakernel", "anovakernel", "splinekernel",
+              "kernelMatrix","kfunction")
