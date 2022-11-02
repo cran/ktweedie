@@ -5,6 +5,9 @@ knitr::opts_chunk$set(
 )
 set.seed(20221017)
 
+## ----cran, eval=FALSE---------------------------------------------------------
+#  install.packages("ktweedie")
+
 ## ----install_git, eval=FALSE--------------------------------------------------
 #  devtools::install_github("ly129/ktweedie")
 
