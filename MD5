@@ -1,4 +1,4 @@
-628b090187eb7ae7a174977b4dc6755a *DESCRIPTION
+79da65510b6f0d0ed7717464ebbe8b0c *DESCRIPTION
 5bfb0ae39a3905e62e6f8696b22dc14c *NAMESPACE
 2851ec74e8a887265d701ab4ed398537 *R/aobjects.R
 e3e853e104235cf0904b4e311c7bd5ee *R/datadoc.R
@@ -11,11 +11,12 @@ ed996f8edb55a43a46e9eec0d19028b3 *R/ktd_estimate.R
 b19cc9e0598f35da403cdd57c5bda5ea *R/pkg.R
 ebe1cdcc0f85773ac31ff974292fc1d3 *R/utilities.R
 e906f77e2db84bad437cdeb62fd61d0a *README.md
-c527315d7cd663ac6d626acf59e665d4 *build/vignette.rds
+0109adccf165b806c2c4a5ea07dbcaf8 *build/vignette.rds
 37d175bb18b61f6a8423e9d78723a6fa *data/dat.rda
+56a76a95de15003d35a5f4de1f2b62a7 *inst/CITATION
 e6de5b58a06af80eecce66bb3381030a *inst/doc/ktweedie-vignette.R
 dbc8b445ec46b5a8911ec41b264916a5 *inst/doc/ktweedie-vignette.Rmd
-026f5d87fba36cec57b8b829acbbb08b *inst/doc/ktweedie-vignette.html
+b80ea2b021e6347a65e90fcbfc1cf279 *inst/doc/ktweedie-vignette.html
 daf5b345cefd48a96c211e2a4121cf77 *man/as.kernelMatrix.Rd
 432c63a99793c62092697bf585e0810e *man/dat.Rd
 db6345a991618c4eb5a17becc3669c70 *man/dots.Rd
