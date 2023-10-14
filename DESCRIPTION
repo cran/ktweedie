@@ -1,8 +1,8 @@
 Package: ktweedie
 Title: 'Tweedie' Compound Poisson Model in the Reproducing Kernel
         Hilbert Space
-Version: 1.0.2
-Date: 2023-03-22
+Version: 1.0.3
+Date: 2023-10-14
 Authors@R: 
     c(person("Yi", "Lian", role = c("aut", "cre"), email = "yi.lian@mail.mcgill.ca"),
       person("Archer Yi", "Yang", role = c("aut", "cph")),
@@ -19,7 +19,7 @@ Suggests: knitr, rmarkdown, tweedie
 LazyData: true
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2023-03-22 19:25:36 UTC; YLIAN
+Packaged: 2023-10-14 22:06:48 UTC; YLIAN
 Author: Yi Lian [aut, cre],
   Archer Yi Yang [aut, cph],
   Boxiang Wang [aut],
@@ -27,4 +27,4 @@ Author: Yi Lian [aut, cre],
   Robert W. Platt [aut]
 Maintainer: Yi Lian <yi.lian@mail.mcgill.ca>
 Repository: CRAN
-Date/Publication: 2023-03-22 23:00:02 UTC
+Date/Publication: 2023-10-14 22:32:43 UTC
